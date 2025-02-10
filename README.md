@@ -1,5 +1,3 @@
-# yet-another-todo-list
-
 [comment]: # (You may find the following markdown cheat sheet useful: https://www.markdownguide.org/cheat-sheet/. You may also consider using an online Markdown editor such as StackEdit or makeareadme.) 
 
 ## Project title: yet-another-todo-list
